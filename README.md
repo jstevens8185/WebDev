@@ -6,6 +6,6 @@ This repo contains all web development projects from the day I started learning 
 #### Contents
 | Folder  |Description   |
 |---|---|
-|<a href="#">Html</a>  | Contains html for most projects  |
+|<a href="https://github.com/jstevens8185/WebDev/tree/master/HTML">Html</a>  | Contains html for most projects  |
 |   |   |
 |   |   |
